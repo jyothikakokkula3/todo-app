@@ -36,7 +36,13 @@ A simple fullstack to-do application built with **Node.js**, **Express.js**, and
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/todo-app.git
+https://github.com/jyothikakokkula3/todo-app.git![Screenshot 2025-02-20 005931](https://github.com/user-attachments/assets/069355d8-23c8-4153-9dfe-83a93d0c0302)
+
+
+https://github.com/user-attachments/assets/190b2673-c30d-4884-a0b1-27c0317f1b73
+
+![Screenshot 2025-02-19 235249](https://github.com/user-attachments/assets/071c94a9-fe16-4ea8-8fa3-cb2cda2f4c03)
+
 cd todo-app
 
 2️⃣ Install Dependencies

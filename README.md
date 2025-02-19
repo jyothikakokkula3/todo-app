@@ -1,3 +1,4 @@
+![Screenshot 2025-02-19 235249](https://github.com/user-attachments/assets/4ad06d9f-e741-49a0-ba6c-a6ec2bb47092)
 # To-Do Application
 
 A simple fullstack to-do application built with **Node.js**, **Express.js**, and vanilla **HTML/CSS/JavaScript**.
